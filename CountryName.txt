@@ -1,0 +1,12 @@
+-- Names of 10 country in the World
+
+1. Nigeria
+2. England
+3. Pakistan
+4. India
+5. United State of America
+6. China
+7. Saudi Arabia
+8. Turkey
+9. Ghana
+10.Germany 
